@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Latent Diffusion Models
 [arXiv](https://arxiv.org/abs/2112.10752) | [BibTeX](#bibtex)
 
@@ -360,3 +361,6 @@ Thanks for open-sourcing!
 ```
 
 
+=======
+# latent-diffusion
+>>>>>>> origin/main
