@@ -1,0 +1,7 @@
+__pychache__/
+logs/
+ldm/__pychache__
+first_stage_models/
+samples/
+src/clip.bak
+src/taming-transformers.bak
